@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anshad K\\Api\\sportsapi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9802A5F-61E8-416D-8CD5-9CDE09972003}|sportsapi\\sportsapi.csproj|c:\\users\\anshad k\\api\\sportsapi\\sportsapi\\controllers\\sportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9802A5F-61E8-416D-8CD5-9CDE09972003}|sportsapi\\sportsapi.csproj|solutionrelative:sportsapi\\controllers\\sportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9802A5F-61E8-416D-8CD5-9CDE09972003}|sportsapi\\sportsapi.csproj|c:\\users\\anshad k\\api\\sportsapi\\sportsapi\\model\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9802A5F-61E8-416D-8CD5-9CDE09972003}|sportsapi\\sportsapi.csproj|solutionrelative:sportsapi\\model\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9802A5F-61E8-416D-8CD5-9CDE09972003}|sportsapi\\sportsapi.csproj|c:\\users\\anshad k\\api\\sportsapi\\sportsapi\\model\\sports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9802A5F-61E8-416D-8CD5-9CDE09972003}|sportsapi\\sportsapi.csproj|solutionrelative:sportsapi\\model\\sports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9802A5F-61E8-416D-8CD5-9CDE09972003}|sportsapi\\sportsapi.csproj|c:\\users\\anshad k\\api\\sportsapi\\sportsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A9802A5F-61E8-416D-8CD5-9CDE09972003}|sportsapi\\sportsapi.csproj|solutionrelative:sportsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9802A5F-61E8-416D-8CD5-9CDE09972003}|sportsapi\\sportsapi.csproj|c:\\users\\anshad k\\api\\sportsapi\\sportsapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A9802A5F-61E8-416D-8CD5-9CDE09972003}|sportsapi\\sportsapi.csproj|solutionrelative:sportsapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Anshad K\\Api\\sportsapi\\sportsapi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "sportsapi\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Anshad K\\Api\\sportsapi\\sportsapi\\appsettings.Development.json",
+              "RelativeToolTip": "sportsapi\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-18T04:59:01.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\Anshad K\\Api\\sportsapi\\sportsapi\\Model\\Response.cs",
+              "RelativeDocumentMoniker": "sportsapi\\Model\\Response.cs",
+              "ToolTip": "C:\\Users\\Anshad K\\Api\\sportsapi\\sportsapi\\Model\\Response.cs",
+              "RelativeToolTip": "sportsapi\\Model\\Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T14:28:01.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sports.cs",
+              "DocumentMoniker": "C:\\Users\\Anshad K\\Api\\sportsapi\\sportsapi\\Model\\Sports.cs",
+              "RelativeDocumentMoniker": "sportsapi\\Model\\Sports.cs",
+              "ToolTip": "C:\\Users\\Anshad K\\Api\\sportsapi\\sportsapi\\Model\\Sports.cs",
+              "RelativeToolTip": "sportsapi\\Model\\Sports.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T14:27:54.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Anshad K\\Api\\sportsapi\\sportsapi\\appsettings.json",
+              "RelativeDocumentMoniker": "sportsapi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Anshad K\\Api\\sportsapi\\sportsapi\\appsettings.json",
+              "RelativeToolTip": "sportsapi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-17T14:25:25.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SportsController.cs",
+              "DocumentMoniker": "C:\\Users\\Anshad K\\Api\\sportsapi\\sportsapi\\Controllers\\SportsController.cs",
+              "RelativeDocumentMoniker": "sportsapi\\Controllers\\SportsController.cs",
+              "ToolTip": "C:\\Users\\Anshad K\\Api\\sportsapi\\sportsapi\\Controllers\\SportsController.cs",
+              "RelativeToolTip": "sportsapi\\Controllers\\SportsController.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAAAI8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T14:24:58.422Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

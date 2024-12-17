@@ -1,0 +1,6 @@
+@fruitsapi_HostAddress = http://localhost:5183
+
+GET {{fruitsapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
